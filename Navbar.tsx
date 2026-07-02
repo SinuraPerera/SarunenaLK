@@ -83,7 +83,7 @@ export default function Navbar({
             id="nav-logo-container"
           >
             <div className="bg-[#FFFDF7] p-2 sm:p-2.5 rounded-2xl shadow-inner transition-transform group-hover:scale-105 border-2 border-[#F9A825] overflow-hidden">
-              <img src="/favicon.svg" alt="SarunenaLK logo" className="h-6 w-6 sm:h-7 sm:w-7 object-contain" />
+              <img src="/logo.png" alt="SarunenaLK logo" className="h-6 w-6 sm:h-7 sm:w-7 object-contain" />
             </div>
             <div className="block min-w-0">
               <div className="flex items-center space-x-1.5">
@@ -95,7 +95,7 @@ export default function Navbar({
                 </span>
               </div>
               <span className="text-[9px] sm:text-[10px] font-medium text-[#FFFDF7]/80 line-clamp-1 mt-0.5">
-                Smart farming for Sri Lankan communities
+                Professional agricultural support for Sri Lankan communities
               </span>
             </div>
           </div>
