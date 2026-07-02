@@ -243,7 +243,7 @@ Special thanks to the open-source community, agricultural experts, and everyone 
 
 ### Smart Farming • Better Harvest • Sustainable Future
 
-Developed By:
-<b>Sinura Perera</b>
-<b>Vihas Kodithuwakku</b>
-<b> Dulnith Bannadara</b>
+Developed By:<br>
+<b>Sinura Perera</b><br>
+<b>Vihas Kodithuwakku</b><br>
+<b> Dulnith Bandara</b><br>
