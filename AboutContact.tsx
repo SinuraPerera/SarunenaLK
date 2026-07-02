@@ -215,7 +215,7 @@ export default function AboutContact({ language = 'en' }: { language?: 'en' | 's
                   <input
                     type="text"
                     required
-                    placeholder="e.g. Samitha Perera"
+                    placeholder="e.g. Sinura Perera"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                     className="w-full px-3 py-2 rounded-xl border border-gray-200 text-xs focus:outline-none focus:ring-2 focus:ring-[#2E7D32] bg-white text-gray-800"
@@ -227,7 +227,7 @@ export default function AboutContact({ language = 'en' }: { language?: 'en' | 's
                   <input
                     type="email"
                     required
-                    placeholder="e.g. samitha@gmail.com"
+                    placeholder="e.g. sinura.perera@gmail.com"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
                     className="w-full px-3 py-2 rounded-xl border border-gray-200 text-xs focus:outline-none focus:ring-2 focus:ring-[#2E7D32] bg-white text-gray-800"
