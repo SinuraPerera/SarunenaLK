@@ -74,7 +74,7 @@ export default function Footer({ language, setLanguage, setCurrentTab, theme = '
           <div className="space-y-4">
             <div className="flex items-center space-x-2.5">
               <div className="bg-[#FFFDF7] p-2 rounded-xl border border-amber-500 overflow-hidden">
-                <img src="/favicon.svg" alt="SarunenaLK logo" className="h-6 w-6 object-contain" />
+                <img src="/logo.png" alt="SarunenaLK logo" className="h-6 w-6 object-contain" />
               </div>
               <div>
                 <span className="font-sans font-black text-xl tracking-tight text-white">
